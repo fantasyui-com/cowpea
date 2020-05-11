@@ -1,6 +1,6 @@
 {
   "name": "cowpea",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Find synonyms that rhyme, a tool for poets.",
   "main": "index.js",
   "dependencies": {
@@ -16,7 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/cowpea.git"
   },
-  "keywords": ["poetry", "rhyme"],
+  "keywords": [
+    "poetry",
+    "rhyme"
+  ],
   "author": "fantasyui-com",
   "license": "ISC",
   "bugs": {
